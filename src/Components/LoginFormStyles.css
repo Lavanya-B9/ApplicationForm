@@ -1,0 +1,47 @@
+.container{
+    height: 100vh;
+    width: 100vw;
+    /* margin: 80px auto; */
+}
+.form-container{
+    background-color: white;
+    box-shadow: 2px 3px 6px gray;
+    padding: 20px 20px;
+    margin:  50px 200px 150px 200px;
+}
+.form-container h1{
+    color: rgb(6, 95, 131);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.form-container .label{
+    padding: 15px 0px 8px 100px;
+    font-weight: 500;
+    color: rgb(9, 78, 106);
+    
+}
+.form-container .radio-inputs{
+    padding: 15px 0px 8px 100px;
+   
+    color: rgb(9, 78, 106);
+    
+}
+.form-inputs{
+    width: 50%;
+    margin: 0 0px 0 100px;
+}
+.form-container p{
+    color: red;
+    padding-left: 40px;
+    padding-top: 5px;
+}
+.success-msg{
+    text-align: center;
+    color:rgb(55, 55, 228);
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 25px;
+    text-transform: capitalize;
+}
